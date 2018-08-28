@@ -1,0 +1,37 @@
+target/
+.mvn
+*.tmp
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.DS_Store
+**/application-dev.properties
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.csv
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/%
+
+*.log
+*.gz
+*.properties
+
+
+**/package-lock.json
+
+**/node_modules
+**/resources/static/**
+
+application-dev.properties
